@@ -14,4 +14,13 @@ App activity
 
 App interactions & Approximate location `
 
+# Security practices
 
+Data is encrypted in transit
+
+Your data is transferred over a secure connection.
+
+You can request that data be deleted
+
+The developer provides a way for you to request that your data be deleted.
+## Thank You🥀❤️
