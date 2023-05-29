@@ -4,14 +4,14 @@
 
 The developer says this app doesn't share user data with other companies or organizations.
 
-#Data collected
+# Data collected
 
 Data this app may collect
 
-`Location
+` Location
 
 App activity
 
-App interactions & Approximate location
+App interactions & Approximate location `
 
-`
+
