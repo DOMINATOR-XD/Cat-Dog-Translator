@@ -2,6 +2,8 @@
 
 [DWONLOD](https://www.mediafire.com/file/v2d1ovae37i0z7v/Cat&Dog+Translator_1.3.4.apk/file)
 
+# [App Privacy](https://github.com/DOMINATOR-XD/Cat-Dog-Translator/blob/main/Data-safety.md)
+
 # About App
 
 Dog translator, cat translator, pet album, cat sounds and dog sounds all in one.
